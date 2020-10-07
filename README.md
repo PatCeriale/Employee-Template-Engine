@@ -43,5 +43,7 @@ Contact me via email at Patceriale@gmail.com.
 
 ## **Preview**
 
-View a video of the app in action here:
-As well as the end product here
+View a video of the app in action here: <br>
+https://drive.google.com/file/d/1fBwPuVcoBsSBNafwNBbq2stIGUOZoqOr/view?usp=sharing <br>
+As well as the end product here: <br>
+![Screen Shot 2020-10-06 at 6 56 24 PM](https://user-images.githubusercontent.com/68709356/95278737-b5a0b900-0805-11eb-8a13-59f81df22d8b.png)
